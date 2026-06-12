@@ -47,7 +47,7 @@ Astrologers conduct audio consultations with clients regularly. This system prov
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/SAWAN098/Consultation-Audio-Manager.git>
 cd consultation-manager
 ```
 
